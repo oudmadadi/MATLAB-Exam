@@ -1,1 +1,1 @@
-print ("This is some simple exercises for the MATLAB workshop exam that I passed this semister.")
+# This is some simple exercises for the MATLAB workshop exam that I passed this semester.
